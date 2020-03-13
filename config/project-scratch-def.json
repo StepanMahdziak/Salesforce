@@ -1,5 +1,8 @@
 {
   "orgName": "Demo company",
   "edition": "Developer",
-  "features": []
+  "features": [],
+  "orgPreferences" : {
+    "disabled":["S1DesktopEnabled"]
+  }
 }
